@@ -1,0 +1,39 @@
+_repo: Dawn-of-the-Demigods_63797
+_version: 0.0.1
+alternative_title: Dawn of the Demi-Gods
+contributor:
+  illustrator:
+    agent_name: Vestal, Herman B.
+    aliases:
+    - Vestal, H. B. (Herman B.)
+    - Vestal, Herman Beeson
+    birthdate: 1916
+    deathdate: 2007
+    gutenberg_agent_id: '33400'
+    url: http://www.gutenberg.org/2009/agents/33400
+creator:
+  author:
+    agent_name: Gallun, Raymond Z.
+    aliases:
+    - Gallun, Raymond Z. (Raymond Zinke)
+    - Gallun, Raymond Zinke
+    birthdate: 1911
+    deathdate: 1994
+    gutenberg_agent_id: '28382'
+    url: http://www.gutenberg.org/2009/agents/28382
+    wikipedia: http://en.wikipedia.org/wiki/Raymond_Z._Gallun
+description: Listed in magazine table of contents as "Dawn of the Demi-Gods."
+gutenberg_issued: '2020-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63797'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- GITenberg
+title: Dawn of the Demigods
+url: http://www.gutenberg.org/ebooks/63797
